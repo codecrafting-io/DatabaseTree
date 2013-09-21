@@ -16,7 +16,7 @@ Available Functions
 TEST
 ----
 
-There are two files (entry.txt and exit.txt) in the test folder. In test are 1000 entries, but only 621 are accepted, because there are duplicate entries.
+There are files on test folder to try to insert 1000 or 100000 entries, and another two files for the respectives queries.
 
 OBS
 ---
